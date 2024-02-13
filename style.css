@@ -1,0 +1,61 @@
+/* Tipografía */
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  /* Títulos */
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 30px;
+    font-weight: 500;
+    color: #333;
+  }
+  
+  /* Hero */
+  #hero {
+    background-image: url('img/hero-bg.jpg');
+    background-size: cover;
+    padding: 100px 0;
+    color: #fff;
+  }
+  
+  #hero h1, #hero p {
+    color: #fff;
+  }
+  
+  /* Meet */
+  #meet {
+    background-color: #f9f9f9;
+    padding: 100px 0;
+  }
+  
+  /* Team */
+  #team {
+    padding: 100px 0;
+  }
+  
+  #team h2 {
+    color: #333;
+    font-size: 60px;
+    text-transform: uppercase;
+  }
+  
+  /* Footer */
+  footer {
+    padding: 50px 0;
+  }
+  
+  footer h2, footer h4 {
+    color: #fff;
+  }
+  
+  #footer-sponsors img {
+    margin: 10px;
+    max-width: 100%;
+  }
+  
+  #copyright {
+    background-color: #1a1a1a;
+    padding: 20px 0;
+    text-align: center;
+    color: #fff
+}
